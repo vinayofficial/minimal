@@ -6,7 +6,7 @@
 
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
-![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)(https://github.com/vinayofficial)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vinayofficial)
 
 <center><img src="https://welldoneby.com/blog/wp-content/uploads/2020/05/frauddetection.png"/></center>
 ---
