@@ -1,7 +1,20 @@
-title: <p align="center"> Vinay Singh Shekhawat </p>
+title: <p align="center"> Vinay Singh </p>
 logo: /assets/img/logo.jpg
 
 description:
-A simple description
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/ux-vinayofficial/">LinkedIn</a> |
+  <a href="https://github.com/vinayofficial">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time Ad call data.
+  Worked with IBM Research at Big Data Analytics team.
+  Working in AdTech domain for 3 years.
+  <br>
+  </p>
+
+
 
 theme: jekyll-theme-minimal
